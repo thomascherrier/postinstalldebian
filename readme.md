@@ -4,4 +4,4 @@
 
 wget postinstall.sh https://raw.githubusercontent.com/thomascherrier/postinstalldebian/refs/heads/main/postinstalldebian.sh
 
-sh postinstall.sh
+sh postinstalldebian.sh
