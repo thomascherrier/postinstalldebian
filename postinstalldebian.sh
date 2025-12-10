@@ -25,5 +25,5 @@ echo "y" | ./webmin-setup-repo.sh > /dev/null
 apt update
 apt install webmin --install-recommends -y
 
-echo "Terminé"
+echo "Terminé!"
 reboot
