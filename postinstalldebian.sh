@@ -21,7 +21,7 @@ apt install bsdgames -y
 apt install winbind samba -y
 
 curl -o webmin-setup-repo.sh https://raw.githubusercontent.com/webmin/webmin/master/webmin-setup-repo.sh
-echo "y" | ./webmin-setup-repo.sh > /dev/null
+echo "y" | sh webmin-setup-repo.sh > /dev/null
 apt update
 apt install webmin --install-recommends -y
 
