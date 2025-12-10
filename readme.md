@@ -2,6 +2,6 @@
 
 *lancer le script en  root*
 
-curl -o postinstall.sh https://raw.githubusercontent.com/thomascherrier/postinstalldebian/refs/heads/main/postinstalldebian.sh
+wget postinstall.sh https://raw.githubusercontent.com/thomascherrier/postinstalldebian/refs/heads/main/postinstalldebian.sh
 
 sh postinstall.sh
