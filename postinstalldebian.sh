@@ -1,5 +1,5 @@
 #!/bin/bash
-
+clear
 apt update && apt upgrade -y
 
 apt install ssh -y
