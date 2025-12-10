@@ -6,7 +6,7 @@ apt install ssh -y
 apt install zip -y 
 apt install nmap -y 
 apt install locate -y
-upbadedb
+updadedb
 apt install ncdu -y
 apt install curl -y 
 apt install git -y
